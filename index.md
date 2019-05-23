@@ -1,9 +1,7 @@
 ---
 layout: page
+title: Foreningens formål
 ---
-
-
-### Foreningens formål
 
 Foreningens formål er at skabe mere inspirerende faciliteter på skolens områder for at fremme sundhed, trivsel og leg for alle skolens elever.
 
