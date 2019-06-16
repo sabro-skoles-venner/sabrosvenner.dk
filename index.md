@@ -1,9 +1,14 @@
 ---
 layout: page
-title: Foreningens formål
+title: Velkommen
 ---
 
-Foreningens formål er at skabe mere inspirerende faciliteter på skolens områder for at fremme sundhed, trivsel og leg for alle skolens elever.
+Velkommen til Sabro skoles venner
+
+En forening der har til formål at rejse penge for at skabe mere inspirerende faciliteter på skolens område for at fremme sundhed, trivsel og leg for alle skolens elever.
+
+Her har du mulighed for at læse mere om arbejdet med at rejse kapital til vores projekter, hvilke projekter der pt. er i gang, samt hvordan du selv kan være med til at støtte op omkring vores arbejde. 
+
 
 <a href="{{"/assets/projekt1.png" | relative_url }}" >
   <img src="{{"/assets/projekt1.png" | relative_url }}" width="200" />
